@@ -1,0 +1,10 @@
+.form-div{
+    border-radius: 10px;
+    background-color: rgba(128, 128, 128, 0.408);
+    color: white;
+    padding: 30px;
+    margin: 30px;
+}
+.form-header{
+    text-align: center;
+}
